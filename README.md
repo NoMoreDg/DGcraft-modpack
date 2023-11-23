@@ -21,7 +21,9 @@
 2. Winter pack (Optional).
 3. NewGlowingOres (Optional).
 4. DEFAULT ONES FROM MODS.
+   
 ![alt text](https://github.com/NoMoreDg/DGcraft-modpack/blob/main/Resourcepacks.png)
+
 - 3 Shader packs.
 - Physiscs mod is one of the mods (Might lagg some setups)
 (Try disabling Dynamic blocks inside mod settings "F7" )
