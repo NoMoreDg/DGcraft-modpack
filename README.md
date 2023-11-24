@@ -1,4 +1,7 @@
 ### DG CRAFT 1.20.2
+
+Update by deleting mods folder and putting new files inside .minecraft and replacing everything!
+
 ![alt text](https://github.com/NoMoreDg/DGcraft-modpack/blob/main/DG%20craft.png?raw=true)
 # - What is DG CRAFT?
 
